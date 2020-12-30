@@ -5,14 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6704e95a-ae6e-496a-9345-91bde80ea7e3" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.eslintcache" beforeDir="false" afterPath="$PROJECT_DIR$/.eslintcache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/COM/DataCard.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/COM/DataCard.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/COM/DataTable.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/COM/DataTable.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pages/Create/Create.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/Create/Create.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pages/Create/Quiz.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/Create/Quiz.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pages/Exam/ErrorModal.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/Exam/ErrorModal.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pages/Exam/Exam.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/Exam/Exam.tsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/pages/Exam/Solve.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/Exam/Solve.tsx" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -114,7 +106,7 @@
       <workItem from="1609084700755" duration="3537000" />
       <workItem from="1609135635809" duration="11999000" />
       <workItem from="1609237658113" duration="2442000" />
-      <workItem from="1609315263872" duration="6322000" />
+      <workItem from="1609315263872" duration="6459000" />
     </task>
     <task id="LOCAL-00001" summary="생성페이지 작성">
       <created>1607869738332</created>
@@ -228,7 +220,14 @@
       <option name="project" value="LOCAL" />
       <updated>1609319087512</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="pdf 페이지 이동 처리">
+      <created>1609323201761</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1609323201761</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -250,7 +249,8 @@
     <MESSAGE value="정답 비교 페이지 생성" />
     <MESSAGE value="주석 작업중" />
     <MESSAGE value="--" />
-    <option name="LAST_COMMIT_MESSAGE" value="--" />
+    <MESSAGE value="pdf 페이지 이동 처리" />
+    <option name="LAST_COMMIT_MESSAGE" value="pdf 페이지 이동 처리" />
   </component>
   <component name="WindowStateProjectService">
     <state x="996" y="529" key="#com.intellij.codeInsight.template.impl.EditVariableDialog" timestamp="1608407203893">
@@ -269,10 +269,10 @@
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state x="1010" y="446" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.2560.1400/2560.0.1920.1040@0.0.2560.1400" timestamp="1608033843540" />
-    <state x="897" y="267" key="CommitChangelistDialog2" timestamp="1609319086952">
+    <state x="897" y="267" key="CommitChangelistDialog2" timestamp="1609323201035">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state x="897" y="267" key="CommitChangelistDialog2/0.0.2560.1400/2560.0.1920.1040@0.0.2560.1400" timestamp="1609319086952" />
+    <state x="897" y="267" key="CommitChangelistDialog2/0.0.2560.1400/2560.0.1920.1040@0.0.2560.1400" timestamp="1609323201035" />
     <state x="1060" y="455" key="FileChooserDialogImpl" timestamp="1608486763099">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
@@ -313,10 +313,10 @@
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state x="1061" y="415" key="VCS.ChangeListViewerDialog/0.0.2560.1400/2560.0.1920.1040@0.0.2560.1400" timestamp="1609085306660" />
-    <state x="872" y="433" key="Vcs.Push.Dialog.v2" timestamp="1609319349489">
+    <state x="872" y="433" key="Vcs.Push.Dialog.v2" timestamp="1609323205079">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state x="872" y="433" key="Vcs.Push.Dialog.v2/0.0.2560.1400/2560.0.1920.1040@0.0.2560.1400" timestamp="1609319349489" />
+    <state x="872" y="433" key="Vcs.Push.Dialog.v2/0.0.2560.1400/2560.0.1920.1040@0.0.2560.1400" timestamp="1609323205079" />
     <state x="1095" y="613" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1609319818261">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>

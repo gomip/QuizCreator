@@ -41,12 +41,12 @@ export const Solve: React.FC = () => {
     }, [])
 
     // Function --------------------------------------------------------------------------------------------------------
-    const handlePdfFile = (e: React.SyntheticEvent<HTMLInputElement>) => {
+    const handlePdfFile = (e: React.SyntheticEvent<HTMLInputElement>) => {                                              // pdf파일 경로 지정. 현재는 디폴트로 samplepdf로 지정해두었다.
         const {name, value} = e.currentTarget
         setFilePath(value)
     }
 
-    const handleDocumentLoadSuccess = (numPages: number) => {
+    const handleDocumentLoadSuccess = (numPages: number) => {                                                           // page가 전부 로드 되면 전체 페이지 등록
         setTotalPage(numPages)
     }
 
