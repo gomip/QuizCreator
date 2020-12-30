@@ -3,6 +3,7 @@ import {Button, Modal} from "react-bootstrap";
 
 /**
  *  2021.12.27 | gomip | created
+ *  모달 정보 출력
  */
 
 export interface ErrorModalProps{

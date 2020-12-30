@@ -20,21 +20,6 @@ export interface DataCardProps{
 export const DataCard: React.FC<DataCardProps> = (props) => {
   // State -------------------------------------------------------------------------------------------------------------
   const {total, pageSize, pageNum, handlePageNum} = props
-  let pageCount = 5
-  const totalPage = Math.ceil(total / pageSize)                                                                       // 총 페이지 수
-  const pageGroup = Math.ceil(pageNum / pageCount)                                                                    // 페이지 그룹
-
-  let last = pageGroup * pageCount                                                                                      // 화면에 보여질 마지막 페이지 번호
-  if (last > totalPage) {
-      last = totalPage
-  }
-  let first = last - (pageCount -1)
-  const next = last + 1
-  const prev = first - 1
-
-  if (totalPage < 1) {
-      first = last
-  }
 
   // Function ----------------------------------------------------------------------------------------------------------
 
@@ -58,7 +43,7 @@ export const DataCard: React.FC<DataCardProps> = (props) => {
             (
                 <Card.Footer style={{height: '50px'}} className='card-page'>
                     <Pagination
-                        total={props.total}
+                        total={total}
                         pageSize={10}
                         pageNum={pageNum}
                         handlePageNum={handlePageNum!}

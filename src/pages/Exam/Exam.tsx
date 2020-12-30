@@ -52,7 +52,7 @@ export const Exam: React.FC<TestProps> = (props) => {
         } else if (student.studentName === ''){                                                                         // 학생 이름이 입력되지 않았다면
             handleOpen()
             setCategory('학생 이름')
-        // } else if (student.filePath === '') {                                                                           // 파일이 선택되지 않았다면
+        // } else if (student.filePath === '') {                                                                        // 파일이 선택되지 않았다면
         //     handleOpen()
         //     setCategory('시험지')
         } else {

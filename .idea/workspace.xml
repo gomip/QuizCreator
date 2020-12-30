@@ -4,7 +4,17 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6704e95a-ae6e-496a-9345-91bde80ea7e3" name="Default Changelist" comment="" />
+    <list default="true" id="6704e95a-ae6e-496a-9345-91bde80ea7e3" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.eslintcache" beforeDir="false" afterPath="$PROJECT_DIR$/.eslintcache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/COM/DataCard.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/COM/DataCard.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/COM/DataTable.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/COM/DataTable.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/Create/Create.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/Create/Create.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/Create/Quiz.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/Create/Quiz.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/Exam/ErrorModal.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/Exam/ErrorModal.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/Exam/Exam.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/Exam/Exam.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/Exam/Solve.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/Exam/Solve.tsx" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -104,7 +114,7 @@
       <workItem from="1609084700755" duration="3537000" />
       <workItem from="1609135635809" duration="11999000" />
       <workItem from="1609237658113" duration="2442000" />
-      <workItem from="1609315263872" duration="3006000" />
+      <workItem from="1609315263872" duration="6322000" />
     </task>
     <task id="LOCAL-00001" summary="생성페이지 작성">
       <created>1607869738332</created>
@@ -307,23 +317,23 @@
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state x="872" y="433" key="Vcs.Push.Dialog.v2/0.0.2560.1400/2560.0.1920.1040@0.0.2560.1400" timestamp="1609319349489" />
-    <state x="1095" y="613" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1609319701231">
+    <state x="1095" y="613" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1609319818261">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state x="1095" y="613" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.2560.1400/2560.0.1920.1040@0.0.2560.1400" timestamp="1609319701231" />
-    <state x="3301" y="221" width="554" height="598" key="find.popup" timestamp="1609147564062">
-      <screen x="2560" y="0" width="1920" height="1040" />
+    <state x="1095" y="613" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.2560.1400/2560.0.1920.1040@0.0.2560.1400" timestamp="1609319818261" />
+    <state x="988" y="298" width="584" height="804" key="find.popup" timestamp="1609320433548">
+      <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state x="988" y="298" width="584" height="804" key="find.popup/0.0.2560.1400/2560.0.1920.1040@0.0.2560.1400" timestamp="1609147228766" />
+    <state x="988" y="298" width="584" height="804" key="find.popup/0.0.2560.1400/2560.0.1920.1040@0.0.2560.1400" timestamp="1609320433548" />
     <state x="3301" y="221" width="554" height="598" key="find.popup/0.0.2560.1400/2560.0.1920.1040@2560.0.1920.1040" timestamp="1609147564062" />
     <state x="936" y="330" key="run.anything.popup" timestamp="1609001000809">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state x="936" y="330" key="run.anything.popup/0.0.2560.1400/2560.0.1920.1040@0.0.2560.1400" timestamp="1609001000809" />
-    <state x="943" y="315" width="672" height="678" key="search.everywhere.popup" timestamp="1609319112547">
+    <state x="943" y="315" width="672" height="678" key="search.everywhere.popup" timestamp="1609322586741">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state x="943" y="315" width="672" height="678" key="search.everywhere.popup/0.0.2560.1400/2560.0.1920.1040@0.0.2560.1400" timestamp="1609319112547" />
+    <state x="943" y="315" width="672" height="678" key="search.everywhere.popup/0.0.2560.1400/2560.0.1920.1040@0.0.2560.1400" timestamp="1609322586741" />
     <state x="3267" y="234" width="672" height="504" key="search.everywhere.popup/0.0.2560.1400/2560.0.1920.1040@2560.0.1920.1040" timestamp="1609147518681" />
   </component>
   <component name="XDebuggerManager">

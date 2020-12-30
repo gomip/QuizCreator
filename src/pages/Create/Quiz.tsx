@@ -38,7 +38,7 @@ export const Quiz: React.FC = (props) => {
     Font.register({
         family: "Nanum Gothic",
         src: "https://fonts.gstatic.com/ea/nanumgothic/v5/NanumGothic-Regular.ttf"
-    })
+    })                                                                                                                  // 한글 나눔고딕 설정
 
     const styles = StyleSheet.create({
         page: {
@@ -132,7 +132,7 @@ export const Quiz: React.FC = (props) => {
             wb.Sheets["쓰기"] = Xlsx.utils.aoa_to_sheet(write_ans)
 
             const wbout = Xlsx.write(wb, {bookType:'xlsx', type: 'binary'})
-            saveAs(new Blob([convertFile(wbout)], {type: "application/octet-stream"}), "답안지.xlsx")
+            saveAs(new Blob([convertFile(wbout)], {type: "application/octet-stream"}), "답안지.xlsx")     // 엑셀 페이지 생성 "답안지.xlsx" 영역은 추후 원하는 값으로 변경하면됨
         })
         promise.then((items) => {
             console.log('done')

@@ -64,7 +64,7 @@ export const Create: React.FC<CreateProps> = (props) => {
   const [excelList, setExcelList] = useState<any[]>([])                                                        // 엑셀 데이터 조회
   const [fileSelected, setFileSelected] = useState(false)
 
-  let filterOpt: FilterItemOption[] = []                                                                                // 필터 항목 등록 (1~10)
+  let filterOpt: FilterItemOption[] = []                                                                                // 필터 항목 등록 (1~10) -> 추후 변경이 필요한 루프값 수정하면 됨
   filterOpt = filterOpt.concat({label: '전체', value: ' '})
   for (var i = 1; i < 11; i++) {
     filterOpt = filterOpt.concat({...filterOpt},{label: i.toString(), value: i.toString()})
@@ -314,6 +314,7 @@ export const Create: React.FC<CreateProps> = (props) => {
             activeKey={curTab}
             onSelect={(key) => handleTabChange(key)}
           >
+            {/* 듣기 영역 시작 */}
             <Tab eventKey='listen' title='듣기'>
               <DataCard
                 header={<span className='title'>듣기 : {(fileSelected && listenList !== undefined)? listenList.length : '-'}</span>}
@@ -331,6 +332,9 @@ export const Create: React.FC<CreateProps> = (props) => {
                 />
               </DataCard>
             </Tab>
+            {/* 듣기 영역 끝 */}
+
+            {/* 읽기 영역 시작 */}
             <Tab eventKey='read' title='읽기'>
               <DataCard
                 header={<span className='title'>듣기 : {(fileSelected && readList !== undefined)? readList.length : '-'}</span>}
@@ -348,6 +352,9 @@ export const Create: React.FC<CreateProps> = (props) => {
                 />
               </DataCard>
             </Tab>
+            {/* 읽기 영역 끝 */}
+
+            {/* 쓰기 영역 시작 */}
             <Tab eventKey='write' title='쓰기'>
               <DataCard
                 header={<span className='title'>듣기 : {(fileSelected && writeList !== undefined)? writeList.length : '-'}</span>}
@@ -365,6 +372,7 @@ export const Create: React.FC<CreateProps> = (props) => {
                 />
               </DataCard>
             </Tab>
+            {/* 쓰기 영역 끝 */}
           </Tabs>
         </div>
         {/* 데이터 목록 끝 */}
@@ -465,10 +473,7 @@ export const Create: React.FC<CreateProps> = (props) => {
 
       {/* 하단 다음 페이지 버튼 시작 */}
       <div className='card-base file-select-card next-btn'>
-        {/*<Link to="quiz" className='mr-2' onClick={handleRedirect}>*/}
-          <Button className='mr-2' onClick={handleRedirect}>다음</Button>
-        {/*</Link>*/}
-        {/*<Button className='mr-2'>다음</Button>*/}
+        <Button className='mr-2' onClick={handleRedirect}>다음</Button>
       </div>
       {/* 하단 다음 페이지 버튼 끝 */}
     </div>
