@@ -1,0 +1,29 @@
+/* =====================================================================================================================
+2020.12.26 | gomip | created
+===================================================================================================================== */
+.exam-info{
+    width: 99%;
+    height: 90vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.login-form{
+    width: 400px;
+    height: 500px;
+    border: 2px solid #b3b7bb;
+    border-radius: 10px;
+}
+
+.login-card-title{
+    height: 20%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 20px;
+}
+
+.login-info{
+    margin: 0 10px;
+}

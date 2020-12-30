@@ -1,0 +1,94 @@
+/* =====================================================================================================================
+2020.12.09 | gomip | created
+2020.12.13 | gomip | created
+===================================================================================================================== */
+.create-wrap{
+    width: 99%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+/* 생성 파일에서 보여주는 카드들의 공통 css */
+.card-base {
+    border-radius: 10px;
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    background-color: #EDEFF1;
+}
+
+/* 파일 선택 css */
+.file-select-card{
+    height: 50px;
+    display: flex;
+    align-items:center;
+}
+
+/* 파일 선택 버튼 css */
+.file-select-input{
+    margin: 0 0 0 5rem;
+}
+
+/* 데이터 컨테이너 css */
+.data-container{
+    height: 80vh;
+    max-width: 1920px;
+    margin-top: 20px;
+    display:flex;
+    justify-content: space-between;
+}
+
+/* 데이터 row css */
+.data-row{
+    height: 80vh;
+}
+
+/* 데이터 목록 wrapper css */
+.data-list{
+    width: 77%;
+    height: 100%;
+}
+
+/* 데이터 조건 및 결과 css */
+.data-filter-wrapper{
+    width: 20%;
+    height: 100%;
+    display: flex;
+    justify-content: space-between;
+    flex-direction: column;
+}
+
+/* 데이터 조건 */
+.data-filter-card{
+    height: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.dfcw{
+    width: 90%;
+    display: flex;
+    flex-direction: column;
+}
+
+/* 선택된 데이터 정보 */
+.data-selected-card{
+    height: 45%;
+}
+
+/* 선택된 값 목록 css */
+.selected-list-card{
+    height: 40vh;
+    background-color: #EDEFF1;
+    margin-top: 10px;
+}
+
+.result-table-atd {
+    text-align: center;
+}
+
+/* footer */
+.next-btn{
+    margin-top: 10px;
+    display: flex;
+    justify-content: flex-end;
+}

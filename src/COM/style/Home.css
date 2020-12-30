@@ -1,0 +1,18 @@
+.search-filter{
+    background-color: #EFE9E1;
+    height: 70px;
+    width: 100%;
+    margin-top:10px;
+}
+
+Container {
+    width: 100%;
+    margin-left: 0 !important;
+    margin-right: 0 !important;
+}
+Row {
+    width: 100%;
+}
+Col {
+    width: 100%;
+}

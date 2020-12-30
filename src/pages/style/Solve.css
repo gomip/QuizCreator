@@ -1,0 +1,22 @@
+.solve-wrap{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+.radio-wrap{
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.radio-box{
+    height: 80vh;
+    border: 1px solid #b3b7bb;
+}
+
+.submit-box{
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}

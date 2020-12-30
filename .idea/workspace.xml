@@ -1,0 +1,339 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="6704e95a-ae6e-496a-9345-91bde80ea7e3" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1lJak7nroOqSPZu9egvZIckqT3w" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="false" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.standard" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.standard" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.standard" value="" />
+    <property name="nodejs_package_manager_path" value="yarn" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+    <property name="ts.external.directory.path" value="$PROJECT_DIR$/node_modules/typescript/lib" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Gomip\project\ElectronJs\src\pages\Report" />
+      <recent name="D:\Gomip\project\ElectronJs\src\pages\Create" />
+      <recent name="D:\Gomip\project\ElectronJs\public" />
+      <recent name="$PROJECT_DIR$/src/pages/Create" />
+      <recent name="$PROJECT_DIR$/public" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Gomip\project\ElectronJs\src" />
+      <recent name="D:\Gomip\project\ElectronJs\meta" />
+      <recent name="$PROJECT_DIR$/src/COM" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="react-start" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="react-start" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="npm.react-start" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6704e95a-ae6e-496a-9345-91bde80ea7e3" name="Default Changelist" comment="" />
+      <created>1607317787744</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1607317787744</updated>
+      <workItem from="1607317788931" duration="9332000" />
+      <workItem from="1607327221129" duration="5034000" />
+      <workItem from="1607388443113" duration="7775000" />
+      <workItem from="1607483303964" duration="26668000" />
+      <workItem from="1607581298186" duration="23594000" />
+      <workItem from="1607647429650" duration="29166000" />
+      <workItem from="1607927682327" duration="8393000" />
+      <workItem from="1608005288518" duration="15098000" />
+      <workItem from="1608032447843" duration="17803000" />
+      <workItem from="1608101204207" duration="12491000" />
+      <workItem from="1608189453497" duration="22400000" />
+      <workItem from="1608272860160" duration="5757000" />
+      <workItem from="1608370726300" duration="8674000" />
+      <workItem from="1608407189344" duration="927000" />
+      <workItem from="1608453208827" duration="17567000" />
+      <workItem from="1608539022328" duration="6982000" />
+      <workItem from="1608619134021" duration="19908000" />
+      <workItem from="1608690576683" duration="8837000" />
+      <workItem from="1608731301035" duration="616000" />
+      <workItem from="1608774919857" duration="9047000" />
+      <workItem from="1608816473992" duration="4774000" />
+      <workItem from="1608876131169" duration="7696000" />
+      <workItem from="1608966342285" duration="22642000" />
+      <workItem from="1609054300792" duration="9593000" />
+      <workItem from="1609084700755" duration="3537000" />
+      <workItem from="1609135635809" duration="11999000" />
+      <workItem from="1609237658113" duration="2442000" />
+      <workItem from="1609315263872" duration="3006000" />
+    </task>
+    <task id="LOCAL-00001" summary="생성페이지 작성">
+      <created>1607869738332</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1607869738332</updated>
+    </task>
+    <task id="LOCAL-00002" summary="임시 커밋">
+      <created>1608219249804</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1608219249804</updated>
+    </task>
+    <task id="LOCAL-00003" summary="파일">
+      <created>1608220471139</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1608220471139</updated>
+    </task>
+    <task id="LOCAL-00004" summary="사진파일">
+      <created>1608220931612</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1608220931612</updated>
+    </task>
+    <task id="LOCAL-00005" summary="창 최소 크기 고정 / pdf 한글 적용 / pagination 적용">
+      <created>1608626512386</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1608626512386</updated>
+    </task>
+    <task id="LOCAL-00006" summary="주석 수정">
+      <created>1608626650357</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1608626650357</updated>
+    </task>
+    <task id="LOCAL-00007" summary="페이지 수정">
+      <created>1608632263312</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1608632263312</updated>
+    </task>
+    <task id="LOCAL-00008" summary="문제 생성 / 답안지 생성 버튼 완료">
+      <created>1608835088887</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1608835088887</updated>
+    </task>
+    <task id="LOCAL-00009" summary="시험 페이지 작업중 임시 커밋">
+      <created>1608996549938</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1608996549938</updated>
+    </task>
+    <task id="LOCAL-00010" summary="시험 페이지 작성중 임시 커밋">
+      <created>1609085294081</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1609085294081</updated>
+    </task>
+    <task id="LOCAL-00011" summary="정답 비교 페이지 생성">
+      <created>1609086943243</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1609086943243</updated>
+    </task>
+    <task id="LOCAL-00012" summary="정답 비교 페이지 생성">
+      <created>1609238126377</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1609238126377</updated>
+    </task>
+    <task id="LOCAL-00013" summary="주석 작업중">
+      <created>1609318987135</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1609318987135</updated>
+    </task>
+    <task id="LOCAL-00014" summary="주석 작업중">
+      <created>1609319035817</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1609319035817</updated>
+    </task>
+    <task id="LOCAL-00015" summary="--">
+      <created>1609319075413</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1609319075413</updated>
+    </task>
+    <task id="LOCAL-00016" summary="--">
+      <created>1609319087512</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1609319087512</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="생성페이지 작성" />
+    <MESSAGE value="임시 커밋" />
+    <MESSAGE value="파일" />
+    <MESSAGE value="사진파일" />
+    <MESSAGE value="크기 고정" />
+    <MESSAGE value="창 최소 크기 고정 / pdf 한글 적용 / pagination 적용" />
+    <MESSAGE value="주석 수정" />
+    <MESSAGE value="페이지 수정" />
+    <MESSAGE value="문제 생성 완료" />
+    <MESSAGE value="문제 생성 / 답안지 생성 버튼 완료" />
+    <MESSAGE value="시험 페이지 작업중 임시 커밋" />
+    <MESSAGE value="시험 페이지 작성중 임시 커밋" />
+    <MESSAGE value="정답 비교 페이지 생성" />
+    <MESSAGE value="주석 작업중" />
+    <MESSAGE value="--" />
+    <option name="LAST_COMMIT_MESSAGE" value="--" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="996" y="529" key="#com.intellij.codeInsight.template.impl.EditVariableDialog" timestamp="1608407203893">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="996" y="529" key="#com.intellij.codeInsight.template.impl.EditVariableDialog/0.0.2560.1400/2560.0.1920.1040@0.0.2560.1400" timestamp="1608407203893" />
+    <state x="734" y="355" width="1092" height="714" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1608219749653">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="734" y="355" width="1092" height="714" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.2560.1400/2560.0.1920.1040@0.0.2560.1400" timestamp="1608219749653" />
+    <state x="1030" y="500" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1608220049393">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="1030" y="500" key="#com.intellij.fileTypes.FileTypeChooser/0.0.2560.1400/2560.0.1920.1040@0.0.2560.1400" timestamp="1608220049393" />
+    <state x="1010" y="446" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1608033843540">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="1010" y="446" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.2560.1400/2560.0.1920.1040@0.0.2560.1400" timestamp="1608033843540" />
+    <state x="897" y="267" key="CommitChangelistDialog2" timestamp="1609319086952">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="897" y="267" key="CommitChangelistDialog2/0.0.2560.1400/2560.0.1920.1040@0.0.2560.1400" timestamp="1609319086952" />
+    <state x="1060" y="455" key="FileChooserDialogImpl" timestamp="1608486763099">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="1060" y="455" key="FileChooserDialogImpl/0.0.2560.1400/2560.0.1920.1040@0.0.2560.1400" timestamp="1608486763099" />
+    <state width="2539" height="310" key="GridCell.Tab.0.bottom" timestamp="1609150626646">
+      <screen x="2560" y="0" width="1920" height="1040" />
+    </state>
+    <state width="2539" height="310" key="GridCell.Tab.0.bottom/0.0.2560.1400/2560.0.1920.1040@0.0.2560.1400" timestamp="1609144943908" />
+    <state width="2539" height="310" key="GridCell.Tab.0.bottom/0.0.2560.1400/2560.0.1920.1040@2560.0.1920.1040" timestamp="1609150626646" />
+    <state width="2539" height="310" key="GridCell.Tab.0.center" timestamp="1609150626646">
+      <screen x="2560" y="0" width="1920" height="1040" />
+    </state>
+    <state width="2539" height="310" key="GridCell.Tab.0.center/0.0.2560.1400/2560.0.1920.1040@0.0.2560.1400" timestamp="1609144943908" />
+    <state width="2539" height="310" key="GridCell.Tab.0.center/0.0.2560.1400/2560.0.1920.1040@2560.0.1920.1040" timestamp="1609150626646" />
+    <state width="2539" height="310" key="GridCell.Tab.0.left" timestamp="1609150626646">
+      <screen x="2560" y="0" width="1920" height="1040" />
+    </state>
+    <state width="2539" height="310" key="GridCell.Tab.0.left/0.0.2560.1400/2560.0.1920.1040@0.0.2560.1400" timestamp="1609144943908" />
+    <state width="2539" height="310" key="GridCell.Tab.0.left/0.0.2560.1400/2560.0.1920.1040@2560.0.1920.1040" timestamp="1609150626646" />
+    <state width="2539" height="310" key="GridCell.Tab.0.right" timestamp="1609150626646">
+      <screen x="2560" y="0" width="1920" height="1040" />
+    </state>
+    <state width="2539" height="310" key="GridCell.Tab.0.right/0.0.2560.1400/2560.0.1920.1040@0.0.2560.1400" timestamp="1609144943908" />
+    <state width="2539" height="310" key="GridCell.Tab.0.right/0.0.2560.1400/2560.0.1920.1040@2560.0.1920.1040" timestamp="1609150626646" />
+    <state x="918" y="460" key="MultipleFileMergeDialog" timestamp="1609085319145">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="918" y="460" key="MultipleFileMergeDialog/0.0.2560.1400/2560.0.1920.1040@0.0.2560.1400" timestamp="1609085319145" />
+    <state x="781" y="344" key="SettingsEditor" timestamp="1608916374886">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="781" y="344" key="SettingsEditor/0.0.2560.1400/2560.0.1920.1040@0.0.2560.1400" timestamp="1608916374886" />
+    <state width="498" height="446" key="SwitcherDM" timestamp="1609003486417">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="498" height="446" key="SwitcherDM/0.0.2560.1400/2560.0.1920.1040@0.0.2560.1400" timestamp="1609003486417" />
+    <state x="1061" y="415" key="VCS.ChangeListViewerDialog" timestamp="1609085306660">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="1061" y="415" key="VCS.ChangeListViewerDialog/0.0.2560.1400/2560.0.1920.1040@0.0.2560.1400" timestamp="1609085306660" />
+    <state x="872" y="433" key="Vcs.Push.Dialog.v2" timestamp="1609319349489">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="872" y="433" key="Vcs.Push.Dialog.v2/0.0.2560.1400/2560.0.1920.1040@0.0.2560.1400" timestamp="1609319349489" />
+    <state x="1095" y="613" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1609319701231">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="1095" y="613" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.2560.1400/2560.0.1920.1040@0.0.2560.1400" timestamp="1609319701231" />
+    <state x="3301" y="221" width="554" height="598" key="find.popup" timestamp="1609147564062">
+      <screen x="2560" y="0" width="1920" height="1040" />
+    </state>
+    <state x="988" y="298" width="584" height="804" key="find.popup/0.0.2560.1400/2560.0.1920.1040@0.0.2560.1400" timestamp="1609147228766" />
+    <state x="3301" y="221" width="554" height="598" key="find.popup/0.0.2560.1400/2560.0.1920.1040@2560.0.1920.1040" timestamp="1609147564062" />
+    <state x="936" y="330" key="run.anything.popup" timestamp="1609001000809">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="936" y="330" key="run.anything.popup/0.0.2560.1400/2560.0.1920.1040@0.0.2560.1400" timestamp="1609001000809" />
+    <state x="943" y="315" width="672" height="678" key="search.everywhere.popup" timestamp="1609319112547">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="943" y="315" width="672" height="678" key="search.everywhere.popup/0.0.2560.1400/2560.0.1920.1040@0.0.2560.1400" timestamp="1609319112547" />
+    <state x="3267" y="234" width="672" height="504" key="search.everywhere.popup/0.0.2560.1400/2560.0.1920.1040@2560.0.1920.1040" timestamp="1609147518681" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/src/COM/Sidebar.tsx</url>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
