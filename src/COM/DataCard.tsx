@@ -1,6 +1,6 @@
 import * as React from 'react'
 import {Button, Card, Col} from 'react-bootstrap'
-import {Pagination} from "./Pagination";
+import {Pagination} from "./style/Pagination";
 
 /**
  * 2020.12.13 | gomip | created

@@ -5,7 +5,75 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6704e95a-ae6e-496a-9345-91bde80ea7e3" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/src/pages/Exam/Solve.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/Exam/Solve.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/meta/설명/엑셀파일 구성.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.eslintcache" beforeDir="false" afterPath="$PROJECT_DIR$/.eslintcache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/meta/Image/L001B1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/meta/Image/L001B2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/meta/Image/L001B3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/meta/Image/L001B4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/meta/Image/L002B1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/meta/Image/L002B2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/meta/Image/L002B3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/meta/Image/L002B4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/meta/Image/L003B1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/meta/Image/L003B2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/meta/Image/L003B3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/meta/Image/L003B4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/meta/Image/R005M1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/meta/Image/R006M1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/meta/Image/R007M1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/meta/Image/R008M1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/meta/Image/R009M1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/meta/Image/R010M1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/meta/Image/R011M1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/meta/Image/R012M1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/meta/Image/R013M1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/meta/Image/R014M1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/meta/Image/R015M1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/meta/Image/R016M1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/meta/Image/R017M1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/meta/Image/R018M1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/meta/Image/R019M1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/meta/Image/R021M1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/meta/Image/R023M1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/meta/Image/R025M1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/meta/Image/R026M1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/meta/Image/R027M1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/meta/Image/R028M1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/meta/Image/R029M1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/meta/Image/R030M1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/meta/Image/R031M1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/meta/Image/R032M1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/meta/Image/R033M1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/meta/Image/R034M1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/meta/Image/R035M1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/meta/Image/R036M1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/meta/Image/R037M1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/meta/Image/R038M1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/meta/Image/R039M1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/meta/Image/R040M1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/meta/Image/R041M1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/meta/Image/R042M1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/meta/Image/R043M1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/meta/Image/R044M1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/meta/Image/R046M1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/meta/Image/R048M1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/meta/Image/W001M1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/meta/Image/W001M2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/meta/Image/W001M3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/meta/Image/W001M4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/meta/개요.md" beforeDir="false" afterPath="$PROJECT_DIR$/meta/설명/개발환경.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/AppRouter.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/AppRouter.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/COM/DataCard.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/COM/DataCard.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/COM/LoginPage.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/Exam/LoginPage.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/COM/NavBar.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/COM/Pagination.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/COM/style/Pagination.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/COM/RadioFilterItem.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/COM/RadioFilterItem.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/FWK/FilterItem/type.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/COM/style/type.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/Create/Create.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/Create/Create.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/Create/ReadTab.tsx" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,17 +109,17 @@
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="D:\Gomip\project\ElectronJs\src\pages\Report" />
-      <recent name="D:\Gomip\project\ElectronJs\src\pages\Create" />
-      <recent name="D:\Gomip\project\ElectronJs\public" />
-      <recent name="$PROJECT_DIR$/src/pages/Create" />
-      <recent name="$PROJECT_DIR$/public" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="D:\Gomip\project\ElectronJs\src" />
       <recent name="D:\Gomip\project\ElectronJs\meta" />
       <recent name="$PROJECT_DIR$/src/COM" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Gomip\project\ElectronJs\src\COM\style" />
+      <recent name="D:\Gomip\project\ElectronJs\src\pages\Exam" />
+      <recent name="D:\Gomip\project\ElectronJs\src\FWK" />
+      <recent name="D:\Gomip\project\ElectronJs\meta\설명" />
+      <recent name="D:\Gomip\project\ElectronJs\src\pages\Report" />
     </key>
   </component>
   <component name="RunManager">
@@ -106,7 +174,7 @@
       <workItem from="1609084700755" duration="3537000" />
       <workItem from="1609135635809" duration="11999000" />
       <workItem from="1609237658113" duration="2442000" />
-      <workItem from="1609315263872" duration="6459000" />
+      <workItem from="1609315263872" duration="8693000" />
     </task>
     <task id="LOCAL-00001" summary="생성페이지 작성">
       <created>1607869738332</created>
@@ -227,7 +295,14 @@
       <option name="project" value="LOCAL" />
       <updated>1609323201761</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="pdf 페이지 이동 처리">
+      <created>1609323282987</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1609323282987</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -261,41 +336,41 @@
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state x="734" y="355" width="1092" height="714" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.2560.1400/2560.0.1920.1040@0.0.2560.1400" timestamp="1608219749653" />
-    <state x="1030" y="500" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1608220049393">
+    <state x="1030" y="500" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1609324954495">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state x="1030" y="500" key="#com.intellij.fileTypes.FileTypeChooser/0.0.2560.1400/2560.0.1920.1040@0.0.2560.1400" timestamp="1608220049393" />
-    <state x="1010" y="446" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1608033843540">
+    <state x="1030" y="500" key="#com.intellij.fileTypes.FileTypeChooser/0.0.2560.1400/2560.0.1920.1040@0.0.2560.1400" timestamp="1609324954495" />
+    <state x="1010" y="446" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1609324873034">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state x="1010" y="446" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.2560.1400/2560.0.1920.1040@0.0.2560.1400" timestamp="1608033843540" />
-    <state x="897" y="267" key="CommitChangelistDialog2" timestamp="1609323201035">
+    <state x="1010" y="446" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.2560.1400/2560.0.1920.1040@0.0.2560.1400" timestamp="1609324873034" />
+    <state x="897" y="267" key="CommitChangelistDialog2" timestamp="1609323282307">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state x="897" y="267" key="CommitChangelistDialog2/0.0.2560.1400/2560.0.1920.1040@0.0.2560.1400" timestamp="1609323201035" />
+    <state x="897" y="267" key="CommitChangelistDialog2/0.0.2560.1400/2560.0.1920.1040@0.0.2560.1400" timestamp="1609323282307" />
     <state x="1060" y="455" key="FileChooserDialogImpl" timestamp="1608486763099">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state x="1060" y="455" key="FileChooserDialogImpl/0.0.2560.1400/2560.0.1920.1040@0.0.2560.1400" timestamp="1608486763099" />
-    <state width="2539" height="310" key="GridCell.Tab.0.bottom" timestamp="1609150626646">
-      <screen x="2560" y="0" width="1920" height="1040" />
+    <state width="2539" height="310" key="GridCell.Tab.0.bottom" timestamp="1609324873287">
+      <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state width="2539" height="310" key="GridCell.Tab.0.bottom/0.0.2560.1400/2560.0.1920.1040@0.0.2560.1400" timestamp="1609144943908" />
+    <state width="2539" height="310" key="GridCell.Tab.0.bottom/0.0.2560.1400/2560.0.1920.1040@0.0.2560.1400" timestamp="1609324873287" />
     <state width="2539" height="310" key="GridCell.Tab.0.bottom/0.0.2560.1400/2560.0.1920.1040@2560.0.1920.1040" timestamp="1609150626646" />
-    <state width="2539" height="310" key="GridCell.Tab.0.center" timestamp="1609150626646">
-      <screen x="2560" y="0" width="1920" height="1040" />
+    <state width="2539" height="310" key="GridCell.Tab.0.center" timestamp="1609324873287">
+      <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state width="2539" height="310" key="GridCell.Tab.0.center/0.0.2560.1400/2560.0.1920.1040@0.0.2560.1400" timestamp="1609144943908" />
+    <state width="2539" height="310" key="GridCell.Tab.0.center/0.0.2560.1400/2560.0.1920.1040@0.0.2560.1400" timestamp="1609324873287" />
     <state width="2539" height="310" key="GridCell.Tab.0.center/0.0.2560.1400/2560.0.1920.1040@2560.0.1920.1040" timestamp="1609150626646" />
-    <state width="2539" height="310" key="GridCell.Tab.0.left" timestamp="1609150626646">
-      <screen x="2560" y="0" width="1920" height="1040" />
+    <state width="2539" height="310" key="GridCell.Tab.0.left" timestamp="1609324873287">
+      <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state width="2539" height="310" key="GridCell.Tab.0.left/0.0.2560.1400/2560.0.1920.1040@0.0.2560.1400" timestamp="1609144943908" />
+    <state width="2539" height="310" key="GridCell.Tab.0.left/0.0.2560.1400/2560.0.1920.1040@0.0.2560.1400" timestamp="1609324873287" />
     <state width="2539" height="310" key="GridCell.Tab.0.left/0.0.2560.1400/2560.0.1920.1040@2560.0.1920.1040" timestamp="1609150626646" />
-    <state width="2539" height="310" key="GridCell.Tab.0.right" timestamp="1609150626646">
-      <screen x="2560" y="0" width="1920" height="1040" />
+    <state width="2539" height="310" key="GridCell.Tab.0.right" timestamp="1609324873287">
+      <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state width="2539" height="310" key="GridCell.Tab.0.right/0.0.2560.1400/2560.0.1920.1040@0.0.2560.1400" timestamp="1609144943908" />
+    <state width="2539" height="310" key="GridCell.Tab.0.right/0.0.2560.1400/2560.0.1920.1040@0.0.2560.1400" timestamp="1609324873287" />
     <state width="2539" height="310" key="GridCell.Tab.0.right/0.0.2560.1400/2560.0.1920.1040@2560.0.1920.1040" timestamp="1609150626646" />
     <state x="918" y="460" key="MultipleFileMergeDialog" timestamp="1609085319145">
       <screen x="0" y="0" width="2560" height="1400" />
@@ -313,10 +388,10 @@
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state x="1061" y="415" key="VCS.ChangeListViewerDialog/0.0.2560.1400/2560.0.1920.1040@0.0.2560.1400" timestamp="1609085306660" />
-    <state x="872" y="433" key="Vcs.Push.Dialog.v2" timestamp="1609323205079">
+    <state x="872" y="433" key="Vcs.Push.Dialog.v2" timestamp="1609323285412">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state x="872" y="433" key="Vcs.Push.Dialog.v2/0.0.2560.1400/2560.0.1920.1040@0.0.2560.1400" timestamp="1609323205079" />
+    <state x="872" y="433" key="Vcs.Push.Dialog.v2/0.0.2560.1400/2560.0.1920.1040@0.0.2560.1400" timestamp="1609323285412" />
     <state x="1095" y="613" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1609319818261">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
@@ -330,10 +405,10 @@
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state x="936" y="330" key="run.anything.popup/0.0.2560.1400/2560.0.1920.1040@0.0.2560.1400" timestamp="1609001000809" />
-    <state x="943" y="315" width="672" height="678" key="search.everywhere.popup" timestamp="1609322586741">
+    <state x="943" y="315" width="672" height="678" key="search.everywhere.popup" timestamp="1609323956104">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state x="943" y="315" width="672" height="678" key="search.everywhere.popup/0.0.2560.1400/2560.0.1920.1040@0.0.2560.1400" timestamp="1609322586741" />
+    <state x="943" y="315" width="672" height="678" key="search.everywhere.popup/0.0.2560.1400/2560.0.1920.1040@0.0.2560.1400" timestamp="1609323956104" />
     <state x="3267" y="234" width="672" height="504" key="search.everywhere.popup/0.0.2560.1400/2560.0.1920.1040@2560.0.1920.1040" timestamp="1609147518681" />
   </component>
   <component name="XDebuggerManager">

@@ -1,6 +1,6 @@
 import * as React from 'react'
 import {Dropdown, Form, Row} from 'react-bootstrap'
-import {FilterItemOption} from '../FWK/FilterItem/type'
+import {FilterItemOption} from './style/type'
 
 /**
  * 2020.12.10 | gomip | created

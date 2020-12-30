@@ -1,7 +1,7 @@
 import React from 'react'
 // @ts-ignore
 import {BrowserRouter as Router, Route, Switch} from 'react-router-dom'
-import {LoginPage} from './COM/LoginPage'
+import {LoginPage} from './pages/Exam/LoginPage'
 import {GeneratePage} from './COM/GeneratePage'
 
 /**

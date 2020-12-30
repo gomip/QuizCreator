@@ -1,8 +1,6 @@
 import React, {useState} from 'react';
 import './App.css';
-import {NavBar} from './COM/NavBar'
 import {BrowserRouter as Router, Route, Switch} from 'react-router-dom'
-import {Home} from './pages/Home'
 import {Report} from './pages/Report/Report'
 import {Sidebar} from './COM/Sidebar'
 import {Create} from './pages/Create/Create'
@@ -30,7 +28,8 @@ function App() {
         {/*<NavBar/>*/}
         <Sidebar handleHideName={handleHideName} handleShowName={handleShowName}/>
         <Switch>
-          <Route path="/" exact component={() => <Home showName={showName}/>}/>
+          {/*<Route path="/" exact component={() => <Home showName={showName}/>}/>*/}
+          <Route path="/" exact component={() => <Create showName={showName}/>}/>
           <Route path="/create" component={() => <Create showName={showName}/>}/>
           <Route path="/reports" component={() => <Report showName={showName}/>}/>
           <Route path="/exam" component={() => <Exam showName={showName}/>}/>

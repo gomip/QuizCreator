@@ -3,7 +3,7 @@ import {Button, Form, Tab, Table, Tabs} from 'react-bootstrap'
 import '../style/Create.css'
 import * as Xlsx from 'xlsx'
 import {RadioFilterItem} from '../../COM/RadioFilterItem'
-import {FilterItemOption} from '../../FWK/FilterItem/type'
+import {FilterItemOption} from '../../COM/style/type'
 import {DataCard} from '../../COM/DataCard'
 import {DataTable} from '../../COM/DataTable'
 import {Link, useLocation, Redirect, useHistory} from "react-router-dom"
